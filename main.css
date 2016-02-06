@@ -1,15 +1,13 @@
-.red {
-	background-color: red;
+
+
+.header{
+	background-color: black;
 }
 
-.blue {
-	background-color: blue;
+.project{
+	color: silver;
 }
 
-.yellow {
-	background-color: yellow;
-}
-
-.green {
-	background-color: green;
+.form-spacing{
+	margin-top: 5px;
 }
